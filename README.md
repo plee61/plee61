@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hannah
 - 👀 I’m interested in software programming
-- 🌱 I’m currently Javascript
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on building websites, developing software etc
 - 📫 How to reach me plee61@hotmail.com 
 
